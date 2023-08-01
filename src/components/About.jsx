@@ -89,7 +89,7 @@ const About = () => {
             <h4 className="text-2xl font-bold mt-8">My Resume</h4>
             <div className="flex flex-wrap gap-3 md:w-10/12">
               <a
-                href="https://drive.google.com/file/d/1e3VgpEL_ZGtrVK08CLKxQwbUCr1awvJj/view?usp=sharing"
+                href="https://drive.google.com/file/d/1ouquiAroyrskZuLuGyRyAPY2WhqsSyF6/view?usp=drive_link"
                 className="p-3 hover:bg-slate-400 block rounded transition-all duration-500"
                 target="_blank"
               >
