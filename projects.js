@@ -1,7 +1,7 @@
 const projects = [
   {
     id: 1,
-    name: "YelpCamp",
+    name: "CampExplorer",
     description:
       "YelpCamp project is an immersive and comprehensive web development course, guiding learners to build a full-stack campground review website with hands-on practice and real-world applications.",
     image: "./yelpcamp.png",
@@ -25,7 +25,7 @@ const projects = [
   },
   {
     id: 4,
-    name: "TodayILearned",
+    name: "Knowledge Nuggests",
     description:
       "TodayILearned is an engaging and knowledge-packed course that helps learners develop a full-stack Reddit-like web application using React, Node.js, and PostgreSQL.",
     image: "./today-i-learned.png",
