@@ -1,9 +1,9 @@
 const projects = [
   {
     id: 1,
-    name: "CampExplorer",
+    name: "WeCamp",
     description:
-      "CampExplorer project is an immersive and comprehensive web development course, guiding learners to build a full-stack campground review website with hands-on practice and real-world applications.",
+      "WeCamp project is an immersive and comprehensive web development course, guiding learners to build a full-stack campground review website with hands-on practice and real-world applications.",
     image: "./yelpcamp.png",
     url: "https://yelpcamp-119l.onrender.com/",
   },
